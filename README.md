@@ -20,3 +20,6 @@ Following are the steps required for completing the assignement
 7 - Next push this to remote repo by typing git push -u <alias> master. At this point it will ask for your credentials to enure that the right person is pushing the right conent
 
 your done.
+
+#22nd October 2015
+Started Code School to learn more about Git & finished the first part out of 4.
