@@ -1,5 +1,6 @@
 # JourneytoDatascience
-Step-by-step becoming a Data Scientist
+Step-by-step becoming a Data Scientist. I have no programing experince or remotely assosiated with computer/software.
+I have Bsc. in Econmics but I enjoy data and fiding trend and batter - so decided to actually try and become a data scientist (if possible).
 
 # 4th October 2015
 Inititated course by coursera on Data Science Toolkit
@@ -23,3 +24,11 @@ your done.
 
 #22nd October 2015
 Started Code School to learn more about Git & finished the first part out of 4.
+
+#23rd October 2015
+My first course is almost finished.I just neeed to review other people's assignment.
+This course doesnt really teach anything and if i had a choice I would had skipped it.
+The only thing which is new is github and working with remote repository. The datascience course itself wasnt really great.
+Using Code School ought to help one out regarding whats happening. Make sure you understand each step before proceeding.
+I could try and learn more of github but since I have no project to collaborate with - I am going to stick with basics for now.
+
